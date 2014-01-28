@@ -1,6 +1,6 @@
 IOS-Check-Network-Status-
 =========================
-Step 1: Download the library from following link.
+Step 1: Download the library from following link  https://github.com/Tech-Dev-Mobile/IOS-Check-Network-Status/archive/master.zip.
 
 Step 2: Create new project & Import  SystemConfiguration.framework into your project
 
